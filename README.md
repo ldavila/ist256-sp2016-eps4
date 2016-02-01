@@ -7,7 +7,9 @@ Since these problem sets only serve as a study guide, they are not graded. There
 
 ### Downloading these exercises
 
-Click the **Download ZIP** button on this page to download the code to your computer. After you download the code, right-click on the file and select **Extract All...** to unzip it. There are 4 NetBeans Projects in this problem set.
+Click the **Download ZIP** button on this page to download the code to your computer. After you download the code, right-click on the file and select **Extract All...** to unzip it.
+
+There are 4 NetBeans Projects in this problem set. Open them as you would any other class programming activity. Instructions for each project are in the main Java file.
 
 ## About the Exam ##
 ### What lessons are covered in this exam?
