@@ -3,13 +3,11 @@
 ## What is this exactly?
 Exam Problem Sets are a series of coding exercises which help prepare you for the in-class examination. They should be used as a compliment to your studies, not a replacement for them. The guiding principle should be if you can complete these Java programs successfully, and understand how the code you wrote works, then you will be well prepared for the exam.
 
-Since these problem sets only serve as a study guide, they are not graded. Therefore you may work with others on the problem set exercises as you would if you formed a study group.  Use these problem sets as a measuring stick of your knowledge; to assess your level of comfort with the material and as a guide to seek help prior to the actual exam. If you're having difficulty, its a sign you need remedial help - you should seek office hours and review class video, readings and coding activities with greater depth. 
+Since these problem sets only serve as a study guide, they are not graded. Therefore you may work with others on the problem set exercises as you would if you formed a study group.  Use these problem sets as a measuring stick of your knowledge; to assess your comfort level with the material and as a guide to determine whether you require remedial help prior to the actual exam.
 
 ### Downloading these exercises
 
-Click the **Download ZIP** button on this page to download the code to your computer. After you download the code, right-click on the file and select **Extract All...** to unzip it.
-
-There are 4 programming challenges in this problem set:
+Click the **Download ZIP** button on this page to download the code to your computer. After you download the code, right-click on the file and select **Extract All...** to unzip it. There are 4 NetBeans Projects in this problem set.
 
 ## About the Exam ##
 ### What lessons are covered in this exam?
