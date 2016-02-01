@@ -1,11 +1,18 @@
 # IST256 Spring 2016 Exam Problem Set 1
 
 ## What is this exactly?
-Exam Problem Sets are a series of coding exercises which help prepare you for the in-class examination. They should be used to compliment and guide your studies, not replace them. The guiding principle is that if you can complete these Java programs successfully, then you will be well prepared for the exam as you will have knowledge of core concepts as well as how to apply them in code.
+Exam Problem Sets are a series of coding exercises which help prepare you for the in-class examination. They should be used as a compliment to your studies, not a replacement for them. The guiding principle should be if you can complete these Java programs successfully, and understand how the code you wrote works, then you will be well prepared for the exam.
 
-Since these problem sets only serve as a study guide, they are not graded. Therefore you may work with others on the problem set exercises as you would if you formed a study group.  Use these problem sets as a measuring stick of your knowledge; to assess your level of comfort with the material and as a guide to seek help prior to the actual exam.
+Since these problem sets only serve as a study guide, they are not graded. Therefore you may work with others on the problem set exercises as you would if you formed a study group.  Use these problem sets as a measuring stick of your knowledge; to assess your level of comfort with the material and as a guide to seek help prior to the actual exam. If you're having difficulty, its a sign you need remedial help - you should seek office hours and review class video, readings and coding activities with greater depth. 
 
-## What lessons are covered in this exam?
+### Downloading these exercises
+
+Click the **Download ZIP** button on this page to download the code to your computer. After you download the code, right-click on the file and select **Extract All...** to unzip it.
+
+There are 4 programming challenges in this problem set:
+
+## About the Exam ##
+### What lessons are covered in this exam?
 This exam covers **lessons 01 - 05** on our syllabus. Here's an abridged list of the key takeaways from these lessons:
 - Understanding the differences between a source file and class file; Understanding the associations between a java class in your source file and the name of the file. Java packages.
 - Basic input and output ```print(), println() and printf()``` using the ```Scanner``` class and its methods to get input ``` nextLine(), nextInt(), nextDouble()``` etc...
@@ -23,11 +30,11 @@ This exam covers **lessons 01 - 05** on our syllabus. Here's an abridged list of
 - You should be able to trace through java code to determine what it is doing.
 - You should be able to spot syntax or logic errors in Java code.
 
-## What to bring to the exam
+### What to bring to the exam
 - 1 sheet of 8.5 x 11 inch paper with whatever you want on it. Personal notes, stuff from the web, a photo of your professor, etc.
 - A couple of pens or pencils. (Its a paper exam.)
 
-## Exam Breakdown
+### Exam Question Breakdown
 - Exam issued on paper, in-class. No computers or calculators are allowed.
 - 30 points total.
 - 25 Multiple choice questions, each worth 1 point. Approximately 2/3 of questions geared towards base concepts, 1/3 geared towards the application of those base concepts.
