@@ -21,7 +21,8 @@ This exam covers **lessons 06 - 11** on our syllabus. Here's an abridged list of
 - If statement. Know all the forms of the if statement, and when it is appropriate to use each. if, if...else, if else if ladder. Logical operators, and, or and not.
 - Switch statement. How does it work? When to use switch versus if? What does break do in the switch statement?
 - For loop. Know the three elements of a for loop. Start, Stop and Increment / Decrement. Understand the Increment / Decrement operators. Write loops to work in various ways.
-- While loops. Pre-test, post-test, mid-test loops. Using break to force an exit condition. Sentinel controlled loops. When to use for versus when to use while.
+- Java keywords like static, public private, final, and void.
+- While loops. Pre-test, post-test, mid-test loops. Using break to force an exit condition. Sentinel controlled loops. When to use for versus when to use while. No code traces.
 - Code tracing. You should be able to trace code using all the constructs discussed above.
 - Code writing. The code writing assignment stops at lesson 10. No lesson 11 stuff on the code writing assignment. You will have to use a Java Class in the code writing assignment.
 
