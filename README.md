@@ -31,6 +31,6 @@ This exam covers **lessons 01 - 18** on our syllabus.
 ### Exam Question Breakdown
 - Exam issued on paper, in-class. No computers or calculators are allowed.
 - 30 points total.
-- 25 Multiple choice questions, each worth 1 point. Approximately 2/3 of questions geared towards base concepts, 1/3 geared towards the application of those base concepts.
+- 25 Multiple choice questions, each worth 1 point. Approximately 50% are from lessons 01-13 the others from 14-18.
 - 5 point programming part, hand in before the exam starts.
 - You are given 60 minutes to complete the exam. 
